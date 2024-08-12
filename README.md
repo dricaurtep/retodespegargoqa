@@ -9,6 +9,7 @@ reto de automatización en la pagina de despegar.com.co
 Nota:
 - No pude continuar con la automatizacion debido a un problema con la verificacion de no ser robot en la pagina al momento de realizar la busqueda, pero todo el flujo y la logica sin aplicar filtros para el escenario de reservar alojamiento hasta el checkout esta completa pero sin la respectiva validacion corriendo el robot 
 - Los tiempos de espera los trabaje con la clase Thread.sleep se que no es la mejor practica pero lo estaba haciendo de esta manera para despues implementar los tiempos implicitos, explicitos y fluents pero debido al problema de verificacion con la pagina no pude continuar
+- El robot genera un reporte de serenity reports en la ruta: target\site\serenity\index.html
 
 Dependencias utilizadas:
 -comando: mvn clean install

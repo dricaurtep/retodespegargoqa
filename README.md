@@ -1,5 +1,5 @@
 # retodespegargoqa
-reto de automatización en la pagina de despegar.com.co
+Reto de automatización en la pagina de despegar.com.co
 
 - Para la compilacion del proyecto se puede ejecutar directamente desde la clase RunnerDespegarTest.java que se encuentra en la ruta: src\test\java\com\ilanalab\acceptancetests\RunnerDespegarTest.java
 - Compilacion del proyecto desde el terminal con el comando: mvn clean verify -D tags="@Validacion_servicio_de_alojamiento"   
